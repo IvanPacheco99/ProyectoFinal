@@ -1,0 +1,41 @@
+head {
+    display: none;
+}
+
+body {
+    margin: 0;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: var(--text-color);
+    background-color: var(--white);
+    font: 400 var(--fluid-0) / 1.6 var(--font), sans-serif;
+    text-rendering: optimizeSpeed;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+}
+
+
+#inicio{
+	text-align: center;
+	text-decoration-color: 
+	text-decoration-color:rgb(#B4B43B);
+}
+
+#p1 {
+	text-align: center;
+	font-size: larger;
+}
+article {
+	display: block;
+}
+
+button {background-color: #008CBA;} /* Blue */
+
+#foto{
+
+}
